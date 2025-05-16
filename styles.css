@@ -45,6 +45,12 @@ body {
     margin-bottom: 15px;
     color: #555;
 }
+.card li {
+    color: #555;
+}
+.card ul {
+    margin-bottom: 15px;
+}
 
 /* Responsive video wrapper */
 .video-wrapper {
